@@ -58,4 +58,3 @@ function update() {
 
 // ゲームループ
 setInterval(update, 10);
-
