@@ -59,7 +59,7 @@ function update() {
 // ゲームループ
 setInterval(update, 10);
 
-//パドルの操作
+/*//パドルの操作
 let rightPressed=false;
 let leftPressed=false;
 
@@ -94,5 +94,5 @@ function update(){
     movePaddle();
 
     //省略・・・
-}
+}*/
 
